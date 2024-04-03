@@ -1,0 +1,1703 @@
+name,species,gender,episode_number,last_episode,appeared,episodes_survived
+Bepisian,Alien,unknown,1,25,1,1
+Beth Smith,Human,Female,1,51,1,1
+Greebybobe,Alien,unknown,1,25,1,1
+Hookah Alien,Alien,unknown,1,1,1,1
+Jerry Smith,Human,Male,1,51,1,1
+Jessica,Cronenberg,Female,1,42,1,1
+Jessica's Friend,Human,Female,1,27,1,1
+Morty Smith,Human,Male,1,51,1,1
+Mr. Goldenfold,Cronenberg,Male,1,39,1,1
+Principal Vagina,Cronenberg,Male,1,29,1,1
+Pripudlian,Alien,unknown,1,25,1,1
+Rick Sanchez,Human,Male,1,51,1,1
+Summer Smith,Human,Female,1,51,1,1
+Accountant dog,Animal,Male,2,2,1,1
+Bepisian,Alien,unknown,2,25,0,1
+Centaur,Mythological Creature,Male,2,2,1,1
+Creepy Little Girl,Human,Female,2,2,1,1
+Fido,Animal,Male,2,2,1,1
+Greebybobe,Alien,unknown,2,25,0,1
+Jessica,Cronenberg,Female,2,42,0,1
+Jessica's Friend,Human,Female,2,27,0,1
+Melissa,Mythological Creature,Female,2,2,1,1
+Mrs. Pancakes,Human,Female,2,27,1,1
+Principal Vagina,Cronenberg,Male,2,29,0,1
+Pripudlian,Alien,unknown,2,25,0,1
+Scary Brandon,Mythological Creature,Male,2,2,1,1
+Scary Glenn,Mythological Creature,Male,2,2,1,1
+Scary Teacher,Mythological Creature,Male,2,2,1,1
+Scary Terry,Mythological Creature,Male,2,2,1,1
+Snuffles (Snowball),Animal,Male,2,30,1,1
+Trunkphobic suspenders guy,Human,Male,2,11,1,1
+Beth Smith,Human,Female,2,51,1,2
+Jerry Smith,Human,Male,2,51,1,2
+Morty Smith,Human,Male,2,51,1,2
+Mr. Goldenfold,Cronenberg,Male,2,39,1,2
+Rick Sanchez,Human,Male,2,51,1,2
+Summer Smith,Human,Female,2,51,1,2
+Annie,Human,Female,3,3,1,1
+Bepisian,Alien,unknown,3,25,0,1
+Bill,Human,Male,3,3,1,1
+Eric McMan,Human,Male,3,3,1,1
+Greebybobe,Alien,unknown,3,25,0,1
+Jacob,Human,Male,3,15,1,1
+Jessica,Cronenberg,Female,3,42,0,1
+Jessica's Friend,Human,Female,3,27,0,1
+Joyce Smith,Human,Female,3,3,1,1
+Leonard Smith,Human,Male,3,3,1,1
+Mrs. Pancakes,Human,Female,3,27,0,1
+Principal Vagina,Cronenberg,Male,3,29,0,1
+Pripudlian,Alien,unknown,3,25,0,1
+Snuffles (Snowball),Animal,Male,3,30,0,1
+Tom Randolph,Human,Male,3,3,1,1
+Trunkphobic suspenders guy,Human,Male,3,11,0,1
+Mr. Goldenfold,Cronenberg,Male,3,39,0,2
+Beth Smith,Human,Female,3,51,1,3
+Jerry Smith,Human,Male,3,51,1,3
+Morty Smith,Human,Male,3,51,1,3
+Rick Sanchez,Human,Male,3,51,1,3
+Summer Smith,Human,Female,3,51,1,3
+Bepisian,Alien,unknown,4,25,0,1
+Greebybobe,Alien,unknown,4,25,0,1
+Jacob,Human,Male,4,15,0,1
+Mr. Marklovitz,Human,Male,4,16,1,1
+Mrs. Pancakes,Human,Female,4,27,0,1
+Principal Vagina,Cronenberg,Male,4,29,0,1
+Pripudlian,Alien,unknown,4,25,0,1
+Snuffles (Snowball),Animal,Male,4,30,0,1
+Trunkphobic suspenders guy,Human,Male,4,11,0,1
+Jessica,Cronenberg,Female,4,42,1,2
+Jessica's Friend,Human,Female,4,27,1,2
+Mr. Goldenfold,Cronenberg,Male,4,39,1,3
+Beth Smith,Human,Female,4,51,1,4
+Jerry Smith,Human,Male,4,51,1,4
+Morty Smith,Human,Male,4,51,1,4
+Rick Sanchez,Human,Male,4,51,1,4
+Summer Smith,Human,Female,4,51,1,4
+Bepisian,Alien,unknown,5,25,0,1
+Big Boobed Waitress,Mythological Creature,Female,5,5,1,1
+Giant Judge,Mythological Creature,Male,5,5,1,1
+Greebybobe,Alien,unknown,5,25,0,1
+Jacob,Human,Male,5,15,0,1
+Mr. Booby Buyer,Mythological Creature,Male,5,5,1,1
+Mr. Marklovitz,Human,Male,5,16,0,1
+Mrs. Pancakes,Human,Female,5,27,0,1
+Pripudlian,Alien,unknown,5,25,0,1
+Samantha,Human,Female,5,5,1,1
+Slippery Stair,Mythological Creature,Male,5,11,1,1
+Snuffles (Snowball),Animal,Male,5,30,0,1
+Stair Goblin,Mythological Creature,Genderless,5,25,1,1
+Tammy Guetermann,Cronenberg,Female,5,37,1,1
+Tiny-persons advocacy group lawyer,Mythological Creature,Male,5,5,1,1
+Trunkphobic suspenders guy,Human,Male,5,11,0,1
+Jessica,Cronenberg,Female,5,42,0,2
+Jessica's Friend,Human,Female,5,27,0,2
+Principal Vagina,Cronenberg,Male,5,29,1,2
+Mr. Goldenfold,Cronenberg,Male,5,39,0,3
+Beth Smith,Human,Female,5,51,1,5
+Jerry Smith,Human,Male,5,51,1,5
+Morty Smith,Human,Male,5,51,1,5
+Rick Sanchez,Human,Male,5,51,1,5
+Summer Smith,Human,Female,5,51,1,5
+Bepisian,Alien,unknown,6,25,0,1
+Brad,Human,Male,6,46,1,1
+Greebybobe,Alien,unknown,6,25,0,1
+Harold,Cronenberg,Male,6,6,1,1
+Jacob,Human,Male,6,15,0,1
+MC Haps,Human,Male,6,25,1,1
+Mr. Marklovitz,Human,Male,6,16,0,1
+Mrs. Pancakes,Human,Female,6,27,0,1
+Nancy,Human,Female,6,36,1,1
+Pripudlian,Alien,unknown,6,25,0,1
+Slippery Stair,Mythological Creature,Male,6,11,0,1
+Snuffles (Snowball),Animal,Male,6,30,0,1
+Stair Goblin,Mythological Creature,Genderless,6,25,0,1
+Trunkphobic suspenders guy,Human,Male,6,11,0,1
+Tammy Guetermann,Cronenberg,Female,6,37,1,2
+Jessica,Cronenberg,Female,6,42,1,3
+Jessica's Friend,Human,Female,6,27,1,3
+Principal Vagina,Cronenberg,Male,6,29,1,3
+Mr. Goldenfold,Cronenberg,Male,6,39,1,4
+Beth Smith,Human,Female,6,51,1,6
+Jerry Smith,Human,Male,6,51,1,6
+Morty Smith,Human,Male,6,51,1,6
+Rick Sanchez,Human,Male,6,51,1,6
+Summer Smith,Human,Female,6,51,1,6
+Bepisian,Alien,unknown,7,25,0,1
+Brad,Human,Male,7,46,0,1
+Greebybobe,Alien,unknown,7,25,0,1
+Jackie,Alien,Female,7,7,1,1
+Jacob,Human,Male,7,15,0,1
+MC Haps,Human,Male,7,25,0,1
+Ma-Sha,Alien,Female,7,7,1,1
+Morty Jr's interviewer,Human,Male,7,7,1,1
+Morty Jr.,Humanoid,Male,7,7,1,1
+Mr. Marklovitz,Human,Male,7,16,0,1
+Mrs. Pancakes,Human,Female,7,27,0,1
+Nancy,Human,Female,7,36,0,1
+Pawnshop Clerk,Alien,Male,7,7,1,1
+Pripudlian,Alien,unknown,7,25,0,1
+Slippery Stair,Mythological Creature,Male,7,11,0,1
+Stair Goblin,Mythological Creature,Genderless,7,25,0,1
+Trunkphobic suspenders guy,Human,Male,7,11,0,1
+Veronica Ann Bennet,Alien,Female,7,7,1,1
+Snuffles (Snowball),Animal,Male,7,30,1,2
+Tammy Guetermann,Cronenberg,Female,7,37,0,2
+Jessica,Cronenberg,Female,7,42,0,3
+Jessica's Friend,Human,Female,7,27,0,3
+Principal Vagina,Cronenberg,Male,7,29,0,3
+Mr. Goldenfold,Cronenberg,Male,7,39,0,4
+Beth Smith,Human,Female,7,51,1,7
+Jerry Smith,Human,Male,7,51,1,7
+Morty Smith,Human,Male,7,51,1,7
+Rick Sanchez,Human,Male,7,51,1,7
+Summer Smith,Human,Female,7,51,1,7
+Attila Starwar,Human,Male,8,17,1,1
+Baby Legs,Human,Male,8,8,1,1
+Baby Legs Chief,Human,Male,8,8,1,1
+Benjamin,Poopybutthole,Male,8,17,1,1
+Bepisian,Alien,unknown,8,25,0,1
+Beth Sanchez,Human,Female,8,8,1,1
+Bobby Moynihan,Human,Male,8,8,1,1
+Brad,Human,Male,8,46,0,1
+Celebrity Jerry,Human,Male,8,8,1,1
+Cynthia,Human,Female,8,25,1,1
+David Letterman,Human,Male,8,8,1,1
+Fulgora,Human,Female,8,17,1,1
+Garmanarnar,Alien,Male,8,8,1,1
+Gazorpazorpfield,Alien,Male,8,13,1,1
+Glenn,Human,Male,8,8,1,1
+Greebybobe,Alien,unknown,8,25,0,1
+Guy from The Bachelor,Human,Male,8,8,1,1
+Hamster In Butt,Animal,unknown,8,19,1,1
+Jacob,Human,Male,8,15,0,1
+Johnny Depp,Human,Male,8,8,1,1
+Jon,Alien,Male,8,8,1,1
+Kristen Stewart,Human,Female,8,8,1,1
+Loggins,Alien,Male,8,17,1,1
+MC Haps,Human,Male,8,25,0,1
+Man Painted Silver Who Makes Robot Noises,Human,Male,8,8,1,1
+Michael Denny and the Denny Singers,Human,Male,8,8,1,1
+Michael Jackson,Humanoid,Male,8,8,1,1
+Mr. Marklovitz,Human,Male,8,16,0,1
+Mr. Sneezy,Human,Male,8,8,1,1
+Mrs. Pancakes,Human,Female,8,27,0,1
+Mrs. Sullivan's Boyfriend,Human,Male,8,8,1,1
+Muscular Mannie,Human,Male,8,8,1,1
+Nancy,Human,Female,8,36,0,1
+Piece of Toast,unknown,Genderless,8,17,1,1
+Pripudlian,Alien,unknown,8,25,0,1
+Pro trunk people marriage guy,Human,Male,8,8,1,1
+Quick Mystery Presenter,Human,Male,8,8,1,1
+Real Fake Doors Salesman,Human,Male,8,8,1,1
+Regular Legs,Human,Male,8,8,1,1
+Regular Tyrion Lannister,Human,Male,8,8,1,1
+Shmlamantha Shmlicelli,Human,Female,8,8,1,1
+Shmlangela Shmlobinson-Shmlower,Human,Female,8,8,1,1
+Shmlona Shmlobinson,Human,Female,8,8,1,1
+Shmlonathan Shmlower,Human,Male,8,8,1,1
+Shmlony Shmlicelli,Human,Male,8,8,1,1
+Slippery Stair,Mythological Creature,Male,8,11,0,1
+Spiderweb teddy bear,Animal,unknown,8,8,1,1
+Stair Goblin,Mythological Creature,Genderless,8,25,0,1
+Three Unknown Things,Alien,unknown,8,8,1,1
+Trunk Man,Humanoid,Male,8,28,1,1
+Trunkphobic guy,Human,Male,8,8,1,1
+Two Brothers,Human,Male,8,8,1,1
+Two Guys with Handlebar Mustaches,Human,Male,8,8,1,1
+Unmuscular Michael,Human,Male,8,8,1,1
+Snuffles (Snowball),Animal,Male,8,30,0,2
+Tammy Guetermann,Cronenberg,Female,8,37,0,2
+Trunkphobic suspenders guy,Human,Male,8,11,1,2
+Jessica,Cronenberg,Female,8,42,0,3
+Jessica's Friend,Human,Female,8,27,0,3
+Principal Vagina,Cronenberg,Male,8,29,0,3
+Mr. Goldenfold,Cronenberg,Male,8,39,0,4
+Beth Smith,Human,Female,8,51,1,8
+Jerry Smith,Human,Male,8,51,1,8
+Morty Smith,Human,Male,8,51,1,8
+Rick Sanchez,Human,Male,8,51,1,8
+Summer Smith,Human,Female,8,51,1,8
+Attila Starwar,Human,Male,9,17,0,1
+Benjamin,Poopybutthole,Male,9,17,0,1
+Bepisian,Alien,unknown,9,25,0,1
+Brad,Human,Male,9,46,0,1
+Butter Robot,Robot,Genderless,9,9,1,1
+Fulgora,Human,Female,9,17,0,1
+Gazorpazorpfield,Alien,Male,9,13,0,1
+Greebybobe,Alien,unknown,9,25,0,1
+Hamster In Butt,Animal,unknown,9,19,0,1
+Jacob,Human,Male,9,15,0,1
+King Flippy Nips,Alien,Male,9,9,1,1
+Loggins,Alien,Male,9,17,0,1
+MC Haps,Human,Male,9,25,0,1
+Mr. Marklovitz,Human,Male,9,16,0,1
+Mr. Needful,Humanoid,Male,9,9,1,1
+Mrs. Pancakes,Human,Female,9,27,0,1
+Piece of Toast,unknown,Genderless,9,17,0,1
+Plutonian Host,Alien,Male,9,9,1,1
+Plutonian Hostess,Alien,Female,9,9,1,1
+Pripudlian,Alien,unknown,9,25,0,1
+Rich Plutonian,Alien,Female,9,9,1,1
+Scroopy Noopers,Alien,Male,9,9,1,1
+Slippery Stair,Mythological Creature,Male,9,11,0,1
+Stair Goblin,Mythological Creature,Genderless,9,25,0,1
+Trunk Man,Humanoid,Male,9,28,0,1
+Cynthia,Human,Female,9,25,1,2
+Nancy,Human,Female,9,36,1,2
+Rich Plutonian,Alien,Male,9,9,1,2
+Snuffles (Snowball),Animal,Male,9,30,0,2
+Tammy Guetermann,Cronenberg,Female,9,37,0,2
+Trunkphobic suspenders guy,Human,Male,9,11,0,2
+Jessica,Cronenberg,Female,9,42,0,3
+Jessica's Friend,Human,Female,9,27,0,3
+Principal Vagina,Human,Male,9,29,1,4
+Mr. Goldenfold,Human,Male,9,39,1,5
+Beth Smith,Human,Female,9,51,1,9
+Jerry Smith,Human,Male,9,51,1,9
+Morty Smith,Human,Male,9,51,1,9
+Rick Sanchez,Human,Male,9,51,1,9
+Summer Smith,Human,Female,9,51,1,9
+Antenna Morty,Human,Male,10,28,1,1
+Artist Morty,Human,Male,10,28,1,1
+Attila Starwar,Human,Male,10,17,0,1
+Benjamin,Poopybutthole,Male,10,17,0,1
+Bepisian,Alien,unknown,10,25,0,1
+Brad,Human,Male,10,46,0,1
+Chair-homeless,Humanoid,Male,10,10,1,1
+Chair-person,Humanoid,Male,10,10,1,1
+Chair-waiter,Humanoid,Male,10,10,1,1
+Cowboy Morty,Human,Male,10,10,1,1
+Cowboy Rick,Human,Male,10,28,1,1
+Crab Spider,Alien,unknown,10,10,1,1
+Cult Leader Morty,Human,Male,10,10,1,1
+Cyclops Morty,Humanoid,Male,10,28,1,1
+Doopidoo,Animal,unknown,10,10,1,1
+Evil Morty,Human,Male,10,51,1,1
+Fulgora,Human,Female,10,17,0,1
+Gazorpazorpfield,Alien,Male,10,13,0,1
+Greasy Grandma,Human,Female,10,10,1,1
+Greebybobe,Alien,unknown,10,25,0,1
+Hamster In Butt,Animal,unknown,10,19,0,1
+Jacob,Human,Male,10,15,0,1
+Loggins,Alien,Male,10,17,0,1
+MC Haps,Human,Male,10,25,0,1
+Mr. Marklovitz,Human,Male,10,16,0,1
+Mrs. Pancakes,Human,Female,10,27,0,1
+Phone-person,Humanoid,Male,10,10,1,1
+Piece of Toast,unknown,Genderless,10,17,0,1
+Pizza-person,Humanoid,Male,10,10,1,1
+Pripudlian,Alien,unknown,10,25,0,1
+Slippery Stair,Mythological Creature,Male,10,11,0,1
+Stair Goblin,Mythological Creature,Genderless,10,25,0,1
+Trunk Man,Humanoid,Male,10,28,0,1
+Woman Rick,Alien,Female,10,10,1,1
+Cynthia,Human,Female,10,25,0,2
+Nancy,Human,Female,10,36,0,2
+Tammy Guetermann,Cronenberg,Female,10,37,0,2
+Jessica,Cronenberg,Female,10,42,0,3
+Jessica's Friend,Human,Female,10,27,0,3
+Snuffles (Snowball),Animal,Male,10,30,1,3
+Trunkphobic suspenders guy,Human,Male,10,11,1,3
+Principal Vagina,Cronenberg,Male,10,29,0,4
+Mr. Goldenfold,Cronenberg,Male,10,39,0,5
+Beth Smith,Human,Female,10,51,1,10
+Jerry Smith,Human,Male,10,51,1,10
+Morty Smith,Human,Male,10,51,1,10
+Rick Sanchez,Human,Male,10,51,1,10
+Summer Smith,Human,Female,10,51,1,10
+Antenna Morty,Human,Male,11,28,0,1
+Artist Morty,Human,Male,11,28,0,1
+Attila Starwar,Human,Male,11,17,0,1
+Benjamin,Poopybutthole,Male,11,17,0,1
+Birdperson,Alien,Male,11,51,1,1
+Cowboy Rick,Human,Male,11,28,0,1
+Cyclops Morty,Humanoid,Male,11,28,0,1
+Evil Morty,Human,Male,11,51,0,1
+Fulgora,Human,Female,11,17,0,1
+Gazorpazorpfield,Alien,Male,11,13,0,1
+Giant Testicle Monster,Alien,unknown,11,13,1,1
+Hamster In Butt,Animal,unknown,11,19,0,1
+Jacob,Human,Male,11,15,0,1
+Loggins,Alien,Male,11,17,0,1
+Mr. Marklovitz,Human,Male,11,16,0,1
+Mrs. Pancakes,Human,Female,11,27,0,1
+Piece of Toast,unknown,Genderless,11,17,0,1
+Slow Mobius,Humanoid,Male,11,11,1,1
+Synthetic Laser Eels,Animal,unknown,11,11,1,1
+Traflorkian,Alien,unknown,11,25,1,1
+Trunk Man,Humanoid,Male,11,28,0,1
+Bepisian,Alien,unknown,11,25,1,2
+Brad,Human,Male,11,46,1,2
+Greebybobe,Alien,unknown,11,25,1,2
+MC Haps,Human,Male,11,25,1,2
+Pripudlian,Alien,unknown,11,25,1,2
+Slippery Stair,Mythological Creature,Male,11,11,1,2
+Stair Goblin,Mythological Creature,Genderless,11,25,1,2
+Tammy Guetermann,Cronenberg,Female,11,37,0,2
+Cynthia,Human,Female,11,25,1,3
+Nancy,Human,Female,11,36,1,3
+Snuffles (Snowball),Animal,Male,11,30,0,3
+Jessica,Human,Female,11,42,1,4
+Jessica's Friend,Human,Female,11,27,1,4
+Principal Vagina,Cronenberg,Male,11,29,0,4
+Trunkphobic suspenders guy,Human,Male,11,11,1,4
+Mr. Goldenfold,Cronenberg,Male,11,39,0,5
+Beth Smith,Human,Female,11,51,1,11
+Jerry Smith,Human,Male,11,51,1,11
+Morty Smith,Human,Male,11,51,1,11
+Rick Sanchez,Human,Male,11,51,1,11
+Summer Smith,Human,Female,11,51,1,11
+Antenna Morty,Human,Male,12,28,0,1
+Artist Morty,Human,Male,12,28,0,1
+Attila Starwar,Human,Male,12,17,0,1
+Benjamin,Poopybutthole,Male,12,17,0,1
+Birdperson,Alien,Male,12,51,0,1
+Cowboy Rick,Human,Male,12,28,0,1
+Cyclops Morty,Humanoid,Male,12,28,0,1
+Evil Morty,Human,Male,12,51,0,1
+Fulgora,Human,Female,12,17,0,1
+Gazorpazorpfield,Alien,Male,12,13,0,1
+Giant Testicle Monster,Alien,unknown,12,13,0,1
+Hamster In Butt,Animal,unknown,12,19,0,1
+Jacob,Human,Male,12,15,0,1
+Loggins,Alien,Male,12,17,0,1
+Michael,Human,Male,12,35,1,1
+Michael's Lawyer,Human,Male,12,12,1,1
+Mr. Benson,Human,Male,12,12,1,1
+Mr. Marklovitz,Human,Male,12,16,0,1
+Mrs. Pancakes,Human,Female,12,27,0,1
+Piece of Toast,unknown,Genderless,12,17,0,1
+Shleemypants,unknown,Male,12,36,1,1
+Traflorkian,Alien,unknown,12,25,0,1
+Trunk Man,Humanoid,Male,12,28,0,1
+Veterinary,Human,Female,12,12,1,1
+Veterinary Nurse,Human,Male,12,12,1,1
+Bepisian,Alien,unknown,12,25,0,2
+Brad,Human,Male,12,46,0,2
+Greebybobe,Alien,unknown,12,25,0,2
+MC Haps,Human,Male,12,25,0,2
+Pripudlian,Alien,unknown,12,25,0,2
+Stair Goblin,Mythological Creature,Genderless,12,25,0,2
+Tammy Guetermann,Cronenberg,Female,12,37,0,2
+Cynthia,Human,Female,12,25,0,3
+Nancy,Human,Female,12,36,0,3
+Snuffles (Snowball),Animal,Male,12,30,0,3
+Jessica,Cronenberg,Female,12,42,0,4
+Jessica's Friend,Human,Female,12,27,0,4
+Principal Vagina,Cronenberg,Male,12,29,0,4
+Mr. Goldenfold,Cronenberg,Male,12,39,0,5
+Beth Smith,Human,Female,12,51,1,12
+Jerry Smith,Human,Male,12,51,1,12
+Morty Smith,Human,Male,12,51,1,12
+Rick Sanchez,Human,Male,12,51,1,12
+Summer Smith,Human,Female,12,51,1,12
+Anchor Gear,Alien,Male,13,13,1,1
+Antenna Morty,Human,Male,13,28,0,1
+Artist Morty,Human,Male,13,28,0,1
+Bearded Jerry,Human,Male,13,13,1,1
+Birdperson,Alien,Male,13,51,0,1
+Cowboy Rick,Human,Male,13,28,0,1
+Cyclops Morty,Humanoid,Male,13,28,0,1
+Evil Morty,Human,Male,13,51,0,1
+Garblovian,Alien,Male,13,21,1,1
+Hamster In Butt,Animal,unknown,13,19,0,1
+Jacob,Human,Male,13,15,0,1
+Jerry 5-126,Human,Male,13,13,1,1
+Jerryboree Keeper,Alien,Female,13,13,1,1
+Jerryboree Receptionist,Alien,Male,13,13,1,1
+Michael,Human,Male,13,35,0,1
+Mr. Marklovitz,Human,Male,13,16,0,1
+Mrs. Pancakes,Human,Female,13,27,0,1
+Paul Fleishman,Human,Male,13,13,1,1
+Piece of Toast,unknown,Genderless,13,17,0,1
+Pink Polo Shirt Jerry,Human,Male,13,13,1,1
+Roy,Human,Male,13,13,1,1
+Roy's Mum,Human,Female,13,13,1,1
+Roy's Son,Human,Male,13,13,1,1
+Roy's Wife,Human,Male,13,13,1,1
+Scrotian,Animal,Male,13,25,1,1
+Shaved Head Jerry,Human,Male,13,13,1,1
+Shimshamian,Alien,Male,13,25,1,1
+Shleemypants,unknown,Male,13,36,0,1
+Tank Top Jerry,Human,Male,13,13,1,1
+Trunk Man,Humanoid,Male,13,28,0,1
+Attila Starwar,Human,Male,13,17,1,2
+Benjamin,Poopybutthole,Male,13,17,1,2
+Bepisian,Alien,unknown,13,25,0,2
+Brad,Human,Male,13,46,0,2
+Fulgora,Human,Female,13,17,1,2
+Gazorpazorpfield,Alien,Male,13,13,1,2
+Giant Testicle Monster,Alien,unknown,13,13,1,2
+Greebybobe,Alien,unknown,13,25,0,2
+Loggins,Alien,Male,13,17,1,2
+MC Haps,Human,Male,13,25,0,2
+Pripudlian,Alien,unknown,13,25,0,2
+Stair Goblin,Mythological Creature,Genderless,13,25,0,2
+Tammy Guetermann,Cronenberg,Female,13,37,0,2
+Traflorkian,Alien,unknown,13,25,1,2
+Cynthia,Human,Female,13,25,0,3
+Nancy,Human,Female,13,36,0,3
+Snuffles (Snowball),Animal,Male,13,30,0,3
+Jessica's Friend,Human,Female,13,27,0,4
+Principal Vagina,Cronenberg,Male,13,29,0,4
+Jessica,Human,Female,13,42,1,5
+Mr. Goldenfold,Cronenberg,Male,13,39,0,5
+Beth Smith,Human,Female,13,51,0,12
+Summer Smith,Human,Female,13,51,0,12
+Jerry Smith,Human,Male,13,51,1,13
+Morty Smith,Human,Male,13,51,1,13
+Rick Sanchez,Human,Male,13,51,1,13
+Antenna Morty,Human,Male,14,28,0,1
+Artist Morty,Human,Male,14,28,0,1
+Beta-Seven,Alien,unknown,14,14,1,1
+Birdperson,Alien,Male,14,51,0,1
+Blim Blam,Alien,Male,14,14,1,1
+Cowboy Rick,Human,Male,14,28,0,1
+Cyclops Morty,Humanoid,Male,14,28,0,1
+Daron Jefferson,Alien,Male,14,14,1,1
+Evil Morty,Human,Male,14,51,0,1
+Garblovian,Alien,Male,14,21,0,1
+Hamster In Butt,Animal,unknown,14,19,0,1
+Jacob,Human,Male,14,15,0,1
+Karen Entity,Alien,Female,14,14,1,1
+Michael,Human,Male,14,35,0,1
+Mr. Marklovitz,Human,Male,14,16,0,1
+Mrs. Pancakes,Human,Female,14,27,0,1
+Piece of Toast,unknown,Genderless,14,17,0,1
+Ron Benson,Alien,Male,14,14,1,1
+Scrotian,Animal,Male,14,25,0,1
+Shimshamian,Alien,Male,14,25,0,1
+Shleemypants,unknown,Male,14,36,0,1
+Steven Phillips,Alien,Male,14,14,1,1
+Todd Crystal,Alien,Male,14,14,1,1
+Trunk Man,Humanoid,Male,14,28,0,1
+Unity,Alien,Genderless,14,14,1,1
+Attila Starwar,Human,Male,14,17,0,2
+Benjamin,Poopybutthole,Male,14,17,0,2
+Bepisian,Alien,unknown,14,25,0,2
+Brad,Human,Male,14,46,0,2
+Fulgora,Human,Female,14,17,0,2
+Greebybobe,Alien,unknown,14,25,0,2
+Loggins,Alien,Male,14,17,0,2
+MC Haps,Human,Male,14,25,0,2
+Pripudlian,Alien,unknown,14,25,0,2
+Stair Goblin,Mythological Creature,Genderless,14,25,0,2
+Tammy Guetermann,Cronenberg,Female,14,37,0,2
+Traflorkian,Alien,unknown,14,25,0,2
+Cynthia,Human,Female,14,25,0,3
+Nancy,Human,Female,14,36,0,3
+Snuffles (Snowball),Animal,Male,14,30,0,3
+Jessica's Friend,Human,Female,14,27,0,4
+Principal Vagina,Cronenberg,Male,14,29,0,4
+Jessica,Cronenberg,Female,14,42,0,5
+Mr. Goldenfold,Cronenberg,Male,14,39,0,5
+Beth Smith,Human,Female,14,51,1,13
+Summer Smith,Human,Female,14,51,1,13
+Jerry Smith,Human,Male,14,51,1,14
+Morty Smith,Human,Male,14,51,1,14
+Rick Sanchez,Human,Male,14,51,1,14
+Antenna Morty,Human,Male,15,28,0,1
+Artist Morty,Human,Male,15,28,0,1
+Birdperson,Alien,Male,15,51,0,1
+Cowboy Rick,Human,Male,15,28,0,1
+Cyclops Morty,Humanoid,Male,15,28,0,1
+Evil Morty,Human,Male,15,51,0,1
+Garblovian,Alien,Male,15,21,0,1
+Hamster In Butt,Animal,unknown,15,19,0,1
+Michael,Human,Male,15,35,0,1
+Mr. Marklovitz,Human,Male,15,16,0,1
+Mr. Poopybutthole,Poopybutthole,Male,15,51,1,1
+Mrs. Pancakes,Human,Female,15,27,0,1
+Piece of Toast,unknown,Genderless,15,17,0,1
+Scrotian,Animal,Male,15,25,0,1
+Shimshamian,Alien,Male,15,25,0,1
+Shleemypants,unknown,Male,15,36,0,1
+Trunk Man,Humanoid,Male,15,28,0,1
+Attila Starwar,Human,Male,15,17,0,2
+Benjamin,Poopybutthole,Male,15,17,0,2
+Bepisian,Alien,unknown,15,25,0,2
+Brad,Human,Male,15,46,0,2
+Fulgora,Human,Female,15,17,0,2
+Greebybobe,Alien,unknown,15,25,0,2
+Jacob,Human,Male,15,15,1,2
+Loggins,Alien,Male,15,17,0,2
+MC Haps,Human,Male,15,25,0,2
+Pripudlian,Alien,unknown,15,25,0,2
+Stair Goblin,Mythological Creature,Genderless,15,25,0,2
+Tammy Guetermann,Cronenberg,Female,15,37,0,2
+Traflorkian,Alien,unknown,15,25,0,2
+Cynthia,Human,Female,15,25,0,3
+Nancy,Human,Female,15,36,0,3
+Jessica's Friend,Human,Female,15,27,0,4
+Principal Vagina,Cronenberg,Male,15,29,0,4
+Snuffles (Snowball),Animal,Male,15,30,1,4
+Jessica,Cronenberg,Female,15,42,0,5
+Mr. Goldenfold,Cronenberg,Male,15,39,0,5
+Beth Smith,Human,Female,15,51,1,14
+Summer Smith,Human,Female,15,51,1,14
+Jerry Smith,Human,Male,15,51,1,15
+Morty Smith,Human,Male,15,51,1,15
+Rick Sanchez,Human,Male,15,51,1,15
+Antenna Morty,Human,Male,16,28,0,1
+Arbolian Mentirososian,Alien,unknown,16,21,1,1
+Armagheadon,Alien,Male,16,16,1,1
+Artist Morty,Human,Male,16,28,0,1
+Cowboy Rick,Human,Male,16,28,0,1
+Cyclops Morty,Humanoid,Male,16,28,0,1
+Ethan,Human,Male,16,26,1,1
+Evil Morty,Human,Male,16,51,0,1
+Father Bob,Human,Male,16,27,1,1
+Garblovian,Alien,Male,16,21,0,1
+Hamster In Butt,Animal,unknown,16,19,0,1
+Hydrogen-F,Alien,Female,16,16,1,1
+Ice-T,Alien,Male,16,16,1,1
+Jamey,Human,Male,16,16,1,1
+Jim,Human,Male,16,16,1,1
+Larva Alien,Alien,unknown,16,21,1,1
+Magnesium-J,Alien,Male,16,16,1,1
+Michael,Human,Male,16,35,0,1
+Mr. Poopybutthole,Poopybutthole,Male,16,51,0,1
+Mrs. Pancakes,Human,Female,16,27,0,1
+Orthodox Jew,Human,Male,16,16,1,1
+Piece of Toast,unknown,Genderless,16,17,0,1
+President Curtis,Human,Male,16,47,1,1
+Shimshamian,Alien,Male,16,25,0,1
+Shleemypants,unknown,Male,16,36,0,1
+Simon,Human,Male,16,16,1,1
+Trunk Man,Humanoid,Male,16,28,0,1
+Attila Starwar,Human,Male,16,17,0,2
+Benjamin,Poopybutthole,Male,16,17,0,2
+Bepisian,Alien,unknown,16,25,0,2
+Birdperson,Alien,Male,16,51,1,2
+Brad,Human,Male,16,46,0,2
+Fulgora,Human,Female,16,17,0,2
+Loggins,Alien,Male,16,17,0,2
+MC Haps,Human,Male,16,25,0,2
+Mr. Marklovitz,Human,Male,16,16,1,2
+Pripudlian,Alien,unknown,16,25,0,2
+Scrotian,Animal,Male,16,25,1,2
+Stair Goblin,Mythological Creature,Genderless,16,25,0,2
+Tammy Guetermann,Cronenberg,Female,16,37,0,2
+Traflorkian,Alien,unknown,16,25,0,2
+Cynthia,Human,Female,16,25,0,3
+Greebybobe,Alien,unknown,16,25,1,3
+Nancy,Human,Female,16,36,0,3
+Jessica's Friend,Human,Female,16,27,0,4
+Jessica,Cronenberg,Female,16,42,0,5
+Principal Vagina,Human,Male,16,29,1,5
+Snuffles (Snowball),Animal,Male,16,30,1,5
+Mr. Goldenfold,Human,Male,16,39,1,6
+Beth Smith,Human,Female,16,51,1,15
+Summer Smith,Human,Female,16,51,1,15
+Jerry Smith,Human,Male,16,51,1,16
+Morty Smith,Human,Male,16,51,1,16
+Rick Sanchez,Human,Male,16,51,1,16
+Antenna Morty,Human,Male,17,28,0,1
+Arbolian Mentirososian,Alien,unknown,17,21,0,1
+Artist Morty,Human,Male,17,28,0,1
+Chris,Humanoid,Male,17,17,1,1
+Cowboy Rick,Human,Male,17,28,0,1
+Cyclops Morty,Humanoid,Male,17,28,0,1
+Ethan,Human,Male,17,26,0,1
+Evil Morty,Human,Male,17,51,0,1
+Father Bob,Human,Male,17,27,0,1
+Garblovian,Alien,Male,17,21,0,1
+Hamster In Butt,Animal,unknown,17,19,0,1
+Hunter's Father,Human,Male,17,17,1,1
+Larva Alien,Alien,unknown,17,21,0,1
+Michael,Human,Male,17,35,0,1
+Mr. Poopybutthole,Poopybutthole,Male,17,51,0,1
+Mrs. Pancakes,Human,Female,17,27,0,1
+President Curtis,Human,Male,17,47,0,1
+Shimshamian,Alien,Male,17,25,0,1
+Shleemypants,unknown,Male,17,36,0,1
+Space Cruiser,Robot,Female,17,47,1,1
+Trunk Man,Humanoid,Male,17,28,0,1
+Zeep Xanflorp,Humanoid,Male,17,17,1,1
+Bepisian,Alien,unknown,17,25,0,2
+Birdperson,Alien,Male,17,51,0,2
+Brad,Human,Male,17,46,0,2
+MC Haps,Human,Male,17,25,0,2
+Piece of Toast,unknown,Genderless,17,17,1,2
+Pripudlian,Alien,unknown,17,25,0,2
+Scrotian,Animal,Male,17,25,0,2
+Stair Goblin,Mythological Creature,Genderless,17,25,0,2
+Tammy Guetermann,Cronenberg,Female,17,37,0,2
+Traflorkian,Alien,unknown,17,25,0,2
+Attila Starwar,Human,Male,17,17,1,3
+Benjamin,Poopybutthole,Male,17,17,1,3
+Cynthia,Human,Female,17,25,0,3
+Fulgora,Human,Female,17,17,1,3
+Greebybobe,Alien,unknown,17,25,0,3
+Loggins,Alien,Male,17,17,1,3
+Nancy,Human,Female,17,36,0,3
+Jessica's Friend,Human,Female,17,27,1,5
+Principal Vagina,Cronenberg,Male,17,29,0,5
+Snuffles (Snowball),Animal,Male,17,30,0,5
+Jessica,Human,Female,17,42,1,6
+Mr. Goldenfold,Human,Male,17,39,1,7
+Beth Smith,Human,Female,17,51,0,15
+Jerry Smith,Human,Male,17,51,0,16
+Summer Smith,Human,Female,17,51,1,16
+Morty Smith,Human,Male,17,51,1,17
+Rick Sanchez,Human,Male,17,51,1,17
+Antenna Morty,Human,Male,18,28,0,1
+Arbolian Mentirososian,Alien,unknown,18,21,0,1
+Artist Morty,Human,Male,18,28,0,1
+Cowboy Rick,Human,Male,18,28,0,1
+Cyclops Morty,Humanoid,Male,18,28,0,1
+Ethan,Human,Male,18,26,0,1
+Evil Morty,Human,Male,18,51,0,1
+Father Bob,Human,Male,18,27,0,1
+Flansian,Alien,unknown,18,25,1,1
+Garblovian,Alien,Male,18,21,0,1
+Glexo Slim Slom,Alien,Male,18,18,1,1
+Hamster In Butt,Animal,unknown,18,19,0,1
+Larva Alien,Alien,unknown,18,21,0,1
+Michael,Human,Male,18,35,0,1
+Mr. Poopybutthole,Poopybutthole,Male,18,51,0,1
+Mrs. Pancakes,Human,Female,18,27,0,1
+President Curtis,Human,Male,18,47,0,1
+Shimshamian,Alien,Male,18,25,0,1
+Shleemypants,unknown,Male,18,36,0,1
+Space Cruiser,Robot,Female,18,47,0,1
+Toby Matthews,Human,Male,18,18,1,1
+Trunk Man,Humanoid,Male,18,28,0,1
+Vampire Master,Mythological Creature,Male,18,18,1,1
+Vampire Master's Assistant,Mythological Creature,Male,18,18,1,1
+Bepisian,Alien,unknown,18,25,0,2
+Birdperson,Alien,Male,18,51,0,2
+Brad,Human,Male,18,46,0,2
+MC Haps,Human,Male,18,25,0,2
+Pripudlian,Alien,unknown,18,25,0,2
+Scrotian,Animal,Male,18,25,0,2
+Stair Goblin,Mythological Creature,Genderless,18,25,0,2
+Tammy Guetermann,Cronenberg,Female,18,37,0,2
+Traflorkian,Alien,unknown,18,25,0,2
+Cynthia,Human,Female,18,25,0,3
+Greebybobe,Alien,unknown,18,25,0,3
+Nancy,Human,Female,18,36,0,3
+Snuffles (Snowball),Animal,Male,18,30,0,5
+Jessica's Friend,Human,Female,18,27,1,6
+Principal Vagina,Human,Male,18,29,1,6
+Jessica,Human,Female,18,42,1,7
+Mr. Goldenfold,Human,Male,18,39,1,8
+Beth Smith,Human,Female,18,51,1,16
+Jerry Smith,Human,Male,18,51,1,17
+Summer Smith,Human,Female,18,51,1,17
+Morty Smith,Human,Male,18,51,1,18
+Rick Sanchez,Human,Male,18,51,1,18
+Antenna Morty,Human,Male,19,28,0,1
+Artist Morty,Human,Male,19,28,0,1
+Blamph,Alien,unknown,19,19,1,1
+Blue Diplomat,Alien,Male,19,19,1,1
+Butthole Ice Cream Guy,Alien,Male,19,19,1,1
+Cowboy Rick,Human,Male,19,28,0,1
+Cyclops Morty,Humanoid,Male,19,28,0,1
+Ethan,Human,Male,19,26,0,1
+Evil Morty,Human,Male,19,51,0,1
+Eyehole Man,Alien,Male,19,19,1,1
+Father Bob,Human,Male,19,27,0,1
+Flansian,Alien,unknown,19,25,0,1
+Funny Songs Presenter,Human,Male,19,19,1,1
+Jan-Michael Vincent,Human,Male,19,19,1,1
+Little Dipper,Humanoid,Male,19,19,1,1
+Michael,Human,Male,19,35,0,1
+Michael McLick,Human,Male,19,19,1,1
+Michael Thompson,Humanoid,Male,19,19,1,1
+Mr. Poopybutthole,Poopybutthole,Male,19,51,0,1
+Mrs. Pancakes,Human,Female,19,27,0,1
+Nano Doctor,Alien,Male,19,19,1,1
+Octopus Man,Humanoid,Male,19,19,1,1
+Phillip Jacobs,Human,Male,19,19,1,1
+Pibbles Bodyguard,Alien,Male,19,19,1,1
+Pichael Thompson,Humanoid,Male,19,19,1,1
+President Curtis,Human,Male,19,47,0,1
+Randy Dicknose,Human,Male,19,19,1,1
+Shimshamian,Alien,Male,19,25,0,1
+Shlaammi,Alien,unknown,19,19,1,1
+Shleemypants,unknown,Male,19,36,0,1
+Shrimply Pibbles,Alien,Male,19,19,1,1
+Space Cruiser,Robot,Female,19,47,0,1
+St. Gloopy Noops Nurse,Alien,Female,19,19,1,1
+Stealy,Poopybutthole,Male,19,19,1,1
+Traflorkian Journalist,Alien,Male,19,19,1,1
+Trunk Man,Humanoid,Male,19,28,0,1
+Tumblorkian,Alien,Male,19,19,1,1
+Yaarb,Alien,Male,19,19,1,1
+Yellow Headed Doctor,Alien,Male,19,19,1,1
+Arbolian Mentirososian,Alien,unknown,19,21,1,2
+Birdperson,Alien,Male,19,51,0,2
+Brad,Human,Male,19,46,0,2
+Garblovian,Alien,Male,19,21,1,2
+Hamster In Butt,Animal,unknown,19,19,1,2
+Larva Alien,Alien,unknown,19,21,1,2
+MC Haps,Human,Male,19,25,0,2
+Scrotian,Animal,Male,19,25,0,2
+Stair Goblin,Mythological Creature,Genderless,19,25,0,2
+Tammy Guetermann,Cronenberg,Female,19,37,0,2
+Bepisian,Alien,unknown,19,25,1,3
+Cynthia,Human,Female,19,25,0,3
+Greebybobe,Alien,unknown,19,25,0,3
+Nancy,Human,Female,19,36,0,3
+Pripudlian,Alien,unknown,19,25,1,3
+Traflorkian,Alien,unknown,19,25,1,3
+Snuffles (Snowball),Animal,Male,19,30,0,5
+Jessica's Friend,Human,Female,19,27,0,6
+Principal Vagina,Cronenberg,Male,19,29,0,6
+Jessica,Cronenberg,Female,19,42,0,7
+Mr. Goldenfold,Cronenberg,Male,19,39,0,8
+Beth Smith,Human,Female,19,51,1,17
+Jerry Smith,Human,Male,19,51,1,18
+Summer Smith,Human,Female,19,51,1,18
+Morty Smith,Human,Male,19,51,1,19
+Rick Sanchez,Human,Male,19,51,1,19
+Antenna Morty,Human,Male,20,28,0,1
+Arthricia,Alien,Female,20,20,1,1
+Artist Morty,Human,Male,20,28,0,1
+Cowboy Rick,Human,Male,20,28,0,1
+Cyclops Morty,Humanoid,Male,20,28,0,1
+Ethan,Human,Male,20,26,0,1
+Evil Morty,Human,Male,20,51,0,1
+Father Bob,Human,Male,20,27,0,1
+Flansian,Alien,unknown,20,25,0,1
+Michael,Human,Male,20,35,0,1
+Mr. Poopybutthole,Poopybutthole,Male,20,51,0,1
+Mrs. Pancakes,Human,Female,20,27,0,1
+President Curtis,Human,Male,20,47,0,1
+Shimshamian,Alien,Male,20,25,0,1
+Shleemypants,unknown,Male,20,36,0,1
+Space Cruiser,Robot,Female,20,47,0,1
+Taddy Mason,Human,Male,20,20,1,1
+Trunk Man,Humanoid,Male,20,28,0,1
+Arbolian Mentirososian,Alien,unknown,20,21,0,2
+Birdperson,Alien,Male,20,51,0,2
+Brad,Human,Male,20,46,0,2
+Garblovian,Alien,Male,20,21,0,2
+Larva Alien,Alien,unknown,20,21,0,2
+MC Haps,Human,Male,20,25,0,2
+Scrotian,Animal,Male,20,25,0,2
+Stair Goblin,Mythological Creature,Genderless,20,25,0,2
+Tammy Guetermann,Cronenberg,Female,20,37,0,2
+Bepisian,Alien,unknown,20,25,0,3
+Cynthia,Human,Female,20,25,0,3
+Greebybobe,Alien,unknown,20,25,0,3
+Nancy,Human,Female,20,36,0,3
+Pripudlian,Alien,unknown,20,25,0,3
+Traflorkian,Alien,unknown,20,25,0,3
+Snuffles (Snowball),Animal,Male,20,30,0,5
+Jessica's Friend,Human,Female,20,27,0,6
+Principal Vagina,Cronenberg,Male,20,29,0,6
+Jessica,Cronenberg,Female,20,42,0,7
+Mr. Goldenfold,Cronenberg,Male,20,39,0,8
+Beth Smith,Human,Female,20,51,1,18
+Jerry Smith,Human,Male,20,51,1,19
+Summer Smith,Human,Female,20,51,1,19
+Morty Smith,Human,Male,20,51,1,20
+Rick Sanchez,Human,Male,20,51,1,20
+Antenna Morty,Human,Male,21,28,0,1
+Artist Morty,Human,Male,21,28,0,1
+Courier Flap,Alien,unknown,21,21,1,1
+Cowboy Rick,Human,Male,21,28,0,1
+Cyclops Morty,Humanoid,Male,21,28,0,1
+Ethan,Human,Male,21,26,0,1
+Evil Morty,Human,Male,21,51,0,1
+Father Bob,Human,Male,21,27,0,1
+Kozbian,Alien,unknown,21,21,1,1
+Michael,Human,Male,21,35,0,1
+Mrs. Pancakes,Human,Female,21,27,0,1
+President Curtis,Human,Male,21,47,0,1
+Shleemypants,unknown,Male,21,36,0,1
+Space Cruiser,Robot,Female,21,47,0,1
+Trunk Man,Humanoid,Male,21,28,0,1
+Brad,Human,Male,21,46,0,2
+Flansian,Alien,unknown,21,25,1,2
+MC Haps,Human,Male,21,25,0,2
+Mr. Poopybutthole,Poopybutthole,Male,21,51,1,2
+Shimshamian,Alien,Male,21,25,1,2
+Stair Goblin,Mythological Creature,Genderless,21,25,0,2
+Tammy Guetermann,Cronenberg,Female,21,37,0,2
+Arbolian Mentirososian,Alien,unknown,21,21,1,3
+Bepisian,Alien,unknown,21,25,0,3
+Birdperson,Alien,Male,21,51,1,3
+Cynthia,Human,Female,21,25,0,3
+Garblovian,Alien,Male,21,21,1,3
+Greebybobe,Alien,unknown,21,25,0,3
+Larva Alien,Alien,unknown,21,21,1,3
+Nancy,Human,Female,21,36,0,3
+Pripudlian,Alien,unknown,21,25,0,3
+Scrotian,Animal,Male,21,25,1,3
+Traflorkian,Alien,unknown,21,25,1,4
+Snuffles (Snowball),Animal,Male,21,30,0,5
+Jessica's Friend,Human,Female,21,27,0,6
+Principal Vagina,Cronenberg,Male,21,29,0,6
+Jessica,Cronenberg,Female,21,42,0,7
+Mr. Goldenfold,Human,Male,21,39,1,9
+Beth Smith,Human,Female,21,51,1,19
+Jerry Smith,Human,Male,21,51,1,20
+Summer Smith,Human,Female,21,51,1,20
+Morty Smith,Human,Male,21,51,1,21
+Rick Sanchez,Human,Male,21,51,1,21
+Antenna Morty,Human,Male,22,28,0,1
+Artist Morty,Human,Male,22,28,0,1
+Black Rick,Human,Male,22,28,1,1
+Borpocian,Alien,Male,22,22,1,1
+Cowboy Rick,Human,Male,22,28,0,1
+Cyclops Morty,Humanoid,Male,22,28,0,1
+Ethan,Human,Male,22,26,0,1
+Evil Morty,Human,Male,22,51,0,1
+Father Bob,Human,Male,22,27,0,1
+Michael,Human,Male,22,35,0,1
+Mrs. Pancakes,Human,Female,22,27,0,1
+President Curtis,Human,Male,22,47,0,1
+Shleemypants,unknown,Male,22,36,0,1
+Space Cruiser,Robot,Female,22,47,0,1
+Trunk Man,Humanoid,Male,22,28,0,1
+Brad,Human,Male,22,46,0,2
+Flansian,Alien,unknown,22,25,0,2
+MC Haps,Human,Male,22,25,0,2
+Mr. Poopybutthole,Poopybutthole,Male,22,51,0,2
+Shimshamian,Alien,Male,22,25,0,2
+Stair Goblin,Mythological Creature,Genderless,22,25,0,2
+Tammy Guetermann,Cronenberg,Female,22,37,0,2
+Bepisian,Alien,unknown,22,25,0,3
+Cynthia,Human,Female,22,25,0,3
+Greebybobe,Alien,unknown,22,25,0,3
+Nancy,Human,Female,22,36,0,3
+Pripudlian,Alien,unknown,22,25,0,3
+Scrotian,Animal,Male,22,25,0,3
+Birdperson,Alien,Male,22,51,1,4
+Traflorkian,Alien,unknown,22,25,0,4
+Snuffles (Snowball),Animal,Male,22,30,0,5
+Jessica's Friend,Human,Female,22,27,0,6
+Principal Vagina,Cronenberg,Male,22,29,0,6
+Jessica,Cronenberg,Female,22,42,0,7
+Mr. Goldenfold,Human,Male,22,39,1,10
+Beth Smith,Human,Female,22,51,1,20
+Jerry Smith,Human,Male,22,51,1,21
+Summer Smith,Human,Female,22,51,1,21
+Morty Smith,Human,Male,22,51,1,22
+Rick Sanchez,Human,Male,22,51,1,22
+Antenna Morty,Human,Male,23,28,0,1
+Artist Morty,Human,Male,23,28,0,1
+Black Rick,Human,Male,23,28,0,1
+Cowboy Rick,Human,Male,23,28,0,1
+Cyclops Morty,Humanoid,Male,23,28,0,1
+Eli,Human,Male,23,23,1,1
+Eli's Girlfriend,Human,Female,23,23,1,1
+Ethan,Human,Male,23,26,0,1
+Evil Morty,Human,Male,23,51,0,1
+Father Bob,Human,Male,23,27,0,1
+Genital Washer,Human,Male,23,23,1,1
+Hemorrhage,Human,Male,23,23,1,1
+Michael,Human,Male,23,35,0,1
+Mrs. Pancakes,Human,Female,23,27,0,1
+President Curtis,Human,Male,23,47,0,1
+Shleemypants,unknown,Male,23,36,0,1
+Space Cruiser,Robot,Female,23,47,0,1
+Taint Washer,Human,Male,23,23,1,1
+Trunk Man,Humanoid,Male,23,28,0,1
+Brad,Human,Male,23,46,0,2
+Flansian,Alien,unknown,23,25,0,2
+MC Haps,Human,Male,23,25,0,2
+Mr. Poopybutthole,Poopybutthole,Male,23,51,0,2
+Shimshamian,Alien,Male,23,25,0,2
+Stair Goblin,Mythological Creature,Genderless,23,25,0,2
+Tammy Guetermann,Cronenberg,Female,23,37,0,2
+Bepisian,Alien,unknown,23,25,0,3
+Cynthia,Human,Female,23,25,0,3
+Greebybobe,Alien,unknown,23,25,0,3
+Nancy,Human,Female,23,36,0,3
+Pripudlian,Alien,unknown,23,25,0,3
+Scrotian,Animal,Male,23,25,0,3
+Birdperson,Alien,Male,23,51,0,4
+Traflorkian,Alien,unknown,23,25,0,4
+Snuffles (Snowball),Animal,Male,23,30,0,5
+Jessica's Friend,Human,Female,23,27,0,6
+Principal Vagina,Cronenberg,Male,23,29,0,6
+Jessica,Cronenberg,Female,23,42,0,7
+Mr. Goldenfold,Cronenberg,Male,23,39,0,10
+Beth Smith,Human,Female,23,51,1,21
+Jerry Smith,Human,Male,23,51,1,22
+Summer Smith,Human,Female,23,51,1,22
+Morty Smith,Human,Male,23,51,1,23
+Rick Sanchez,Human,Male,23,51,1,23
+Antenna Morty,Human,Male,24,28,0,1
+Artist Morty,Human,Male,24,28,0,1
+Black Rick,Human,Male,24,28,0,1
+Cowboy Rick,Human,Male,24,28,0,1
+Cyclops Morty,Humanoid,Male,24,28,0,1
+Dr. Wong,Human,Female,24,41,1,1
+Ethan,Human,Male,24,26,0,1
+Evil Morty,Human,Male,24,51,0,1
+Father Bob,Human,Male,24,27,0,1
+Izzy,Animal,unknown,24,24,1,1
+Jaguar,Human,Male,24,24,1,1
+Michael,Human,Male,24,35,0,1
+Mrs. Pancakes,Human,Female,24,27,0,1
+Pickle Rick,unknown,Male,24,24,1,1
+President Curtis,Human,Male,24,47,0,1
+Shleemypants,unknown,Male,24,36,0,1
+Space Cruiser,Robot,Female,24,47,0,1
+Trunk Man,Humanoid,Male,24,28,0,1
+Brad,Human,Male,24,46,0,2
+Flansian,Alien,unknown,24,25,0,2
+MC Haps,Human,Male,24,25,0,2
+Mr. Poopybutthole,Poopybutthole,Male,24,51,0,2
+Shimshamian,Alien,Male,24,25,0,2
+Stair Goblin,Mythological Creature,Genderless,24,25,0,2
+Tammy Guetermann,Cronenberg,Female,24,37,0,2
+Bepisian,Alien,unknown,24,25,0,3
+Cynthia,Human,Female,24,25,0,3
+Greebybobe,Alien,unknown,24,25,0,3
+Nancy,Human,Female,24,36,0,3
+Pripudlian,Alien,unknown,24,25,0,3
+Scrotian,Animal,Male,24,25,0,3
+Birdperson,Alien,Male,24,51,0,4
+Traflorkian,Alien,unknown,24,25,0,4
+Jessica's Friend,Human,Female,24,27,0,6
+Snuffles (Snowball),Animal,Male,24,30,1,6
+Jessica,Cronenberg,Female,24,42,0,7
+Principal Vagina,Human,Male,24,29,1,7
+Mr. Goldenfold,Human,Male,24,39,1,11
+Beth Smith,Human,Female,24,51,1,22
+Jerry Smith,Human,Male,24,51,0,22
+Summer Smith,Human,Female,24,51,1,23
+Morty Smith,Human,Male,24,51,1,24
+Rick Sanchez,Human,Male,24,51,1,24
+Antenna Morty,Human,Male,25,28,0,1
+Artist Morty,Human,Male,25,28,0,1
+Black Rick,Human,Male,25,28,0,1
+Cowboy Rick,Human,Male,25,28,0,1
+Cyclops Morty,Humanoid,Male,25,28,0,1
+Dr. Wong,Human,Female,25,41,0,1
+Ethan,Human,Male,25,26,0,1
+Evil Morty,Human,Male,25,51,0,1
+Father Bob,Human,Male,25,27,0,1
+Logic,Human,Male,25,25,1,1
+Michael,Human,Male,25,35,0,1
+Mrs. Pancakes,Human,Female,25,27,0,1
+Noob-Noob,Poopybutthole,Male,25,25,1,1
+President Curtis,Human,Male,25,47,0,1
+Shleemypants,unknown,Male,25,36,0,1
+Space Cruiser,Robot,Female,25,47,0,1
+Supernova,Human,Female,25,25,1,1
+Trunk Man,Humanoid,Male,25,28,0,1
+Brad,Human,Male,25,46,0,2
+Mr. Poopybutthole,Poopybutthole,Male,25,51,0,2
+Tammy Guetermann,Cronenberg,Female,25,37,0,2
+Flansian,Alien,unknown,25,25,1,3
+MC Haps,Human,Male,25,25,1,3
+Shimshamian,Alien,Male,25,25,1,3
+Stair Goblin,Mythological Creature,Genderless,25,25,1,3
+Bepisian,Alien,unknown,25,25,1,4
+Birdperson,Alien,Male,25,51,0,4
+Cynthia,Human,Female,25,25,1,4
+Greebybobe,Alien,unknown,25,25,1,4
+Nancy,Human,Female,25,36,1,4
+Pripudlian,Alien,unknown,25,25,1,4
+Scrotian,Animal,Male,25,25,1,4
+Traflorkian,Alien,unknown,25,25,1,5
+Snuffles (Snowball),Animal,Male,25,30,0,6
+Jessica,Cronenberg,Female,25,42,0,7
+Jessica's Friend,Human,Female,25,27,1,7
+Principal Vagina,Cronenberg,Male,25,29,0,7
+Mr. Goldenfold,Cronenberg,Male,25,39,0,11
+Jerry Smith,Human,Male,25,51,0,22
+Beth Smith,Human,Female,25,51,1,23
+Summer Smith,Human,Female,25,51,1,24
+Morty Smith,Human,Male,25,51,1,25
+Rick Sanchez,Human,Male,25,51,1,25
+Antenna Morty,Human,Male,26,28,0,1
+Artist Morty,Human,Male,26,28,0,1
+Black Rick,Human,Male,26,28,0,1
+Cowboy Rick,Human,Male,26,28,0,1
+Cyclops Morty,Humanoid,Male,26,28,0,1
+Dr. Wong,Human,Female,26,41,0,1
+Evil Morty,Human,Male,26,51,0,1
+Father Bob,Human,Male,26,27,0,1
+Gene,Human,Male,26,49,1,1
+Michael,Human,Male,26,35,0,1
+Morphizer-XE Customer Support,Alien,Male,26,26,1,1
+Mrs. Pancakes,Human,Female,26,27,0,1
+President Curtis,Human,Male,26,47,0,1
+Shleemypants,unknown,Male,26,36,0,1
+Space Cruiser,Robot,Female,26,47,0,1
+Tricia Lange,Human,Female,26,46,1,1
+Trunk Man,Humanoid,Male,26,28,0,1
+Brad,Human,Male,26,46,0,2
+Ethan,Human,Male,26,26,1,2
+Mr. Poopybutthole,Poopybutthole,Male,26,51,0,2
+Tammy Guetermann,Cronenberg,Female,26,37,0,2
+Nancy,Human,Female,26,36,0,4
+Birdperson,Alien,Male,26,51,1,5
+Snuffles (Snowball),Animal,Male,26,30,0,6
+Jessica's Friend,Human,Female,26,27,0,7
+Principal Vagina,Cronenberg,Male,26,29,0,7
+Jessica,Human,Female,26,42,1,8
+Mr. Goldenfold,Cronenberg,Male,26,39,0,11
+Jerry Smith,Human,Male,26,51,1,23
+Beth Smith,Human,Female,26,51,1,24
+Summer Smith,Human,Female,26,51,1,25
+Morty Smith,Human,Male,26,51,1,26
+Rick Sanchez,Human,Male,26,51,1,26
+Abadango Cluster Princess,Alien,Female,27,27,1,1
+Alien Spa Employee,Alien,Male,27,27,1,1
+Antenna Morty,Human,Male,27,28,0,1
+Artist Morty,Human,Male,27,28,0,1
+Black Rick,Human,Male,27,28,0,1
+Cowboy Rick,Human,Male,27,28,0,1
+Cyclops Morty,Humanoid,Male,27,28,0,1
+Dr. Wong,Human,Female,27,41,0,1
+Evil Morty,Human,Male,27,51,0,1
+Gene,Human,Male,27,49,0,1
+Jacqueline,Human,Female,27,27,1,1
+Little Voltron,Robot,Genderless,27,27,1,1
+Michael,Human,Male,27,35,0,1
+Mitch,Human,Male,27,27,1,1
+President Curtis,Human,Male,27,47,0,1
+Shleemypants,unknown,Male,27,36,0,1
+Space Cruiser,Robot,Female,27,47,0,1
+Stacy,Human,Female,27,27,1,1
+Trunk Man,Humanoid,Male,27,28,0,1
+Brad,Human,Male,27,46,0,2
+Father Bob,Human,Male,27,27,1,2
+Mr. Poopybutthole,Poopybutthole,Male,27,51,0,2
+Mrs. Pancakes,Human,Female,27,27,1,2
+Tammy Guetermann,Cronenberg,Female,27,37,0,2
+Tricia Lange,Human,Female,27,46,1,2
+Nancy,Human,Female,27,36,0,4
+Birdperson,Alien,Male,27,51,0,5
+Snuffles (Snowball),Animal,Male,27,30,0,6
+Jessica's Friend,Human,Female,27,27,1,8
+Principal Vagina,Human,Male,27,29,1,8
+Jessica,Human,Female,27,42,1,9
+Mr. Goldenfold,Human,Male,27,39,1,12
+Jerry Smith,Human,Male,27,51,0,23
+Beth Smith,Human,Female,27,51,1,25
+Summer Smith,Human,Female,27,51,1,26
+Morty Smith,Human,Male,27,51,1,27
+Rick Sanchez,Human,Male,27,51,1,27
+Baby Rick,Human,Male,28,28,1,1
+Bartender Morty,Human,Male,28,28,1,1
+Bearded Morty,Human,Male,28,51,1,1
+Cool Rick,Human,Male,28,28,1,1
+Cop Rick,Human,Male,28,28,1,1
+Dancer Cowboy Morty,Human,Male,28,28,1,1
+Dancer Morty,Human,Male,28,28,1,1
+Dr. Wong,Human,Female,28,41,0,1
+Fat Morty,Human,Male,28,28,1,1
+Flower Morty,Human,Male,28,28,1,1
+Gene,Human,Male,28,49,0,1
+Glasses Morty,Human,Male,28,28,1,1
+Hairdresser Rick,Human,Male,28,28,1,1
+Journalist Rick,Human,Male,28,28,1,1
+Lizard Morty,Humanoid,Male,28,28,1,1
+Mega Fruit Farmer Rick,Human,Male,28,28,1,1
+Michael,Human,Male,28,35,0,1
+Modern Rick,Human,Male,28,28,1,1
+Morty K-22,Human,Male,28,28,1,1
+Morty Mart Manager Morty,Human,Male,28,28,1,1
+Plumber Rick,Human,Male,28,28,1,1
+President Curtis,Human,Male,28,47,0,1
+Purple Morty,Alien,Male,28,28,1,1
+Rick D716-B,Human,Male,28,28,1,1
+Rick D716-C,Human,Male,28,28,1,1
+Rick J-22,Human,Male,28,28,1,1
+Rick K-22,Human,Male,28,28,1,1
+Secret Service Rick,Human,Male,28,28,1,1
+Shleemypants,unknown,Male,28,36,0,1
+Slow Rick,Human,Male,28,28,1,1
+Space Cruiser,Robot,Female,28,47,0,1
+Steve Jobs Rick,Human,Male,28,28,1,1
+Teacher Rick,Human,Male,28,28,1,1
+Trunk Morty,Humanoid,Male,28,28,1,1
+Antenna Morty,Human,Male,28,28,1,2
+Artist Morty,Human,Male,28,28,1,2
+Black Rick,Human,Male,28,28,1,2
+Brad,Human,Male,28,46,0,2
+Cowboy Rick,Human,Male,28,28,1,2
+Cyclops Morty,Humanoid,Male,28,28,1,2
+Evil Morty,Human,Male,28,51,1,2
+Mr. Poopybutthole,Poopybutthole,Male,28,51,0,2
+Tammy Guetermann,Cronenberg,Female,28,37,0,2
+Tricia Lange,Human,Female,28,46,0,2
+Trunk Man,Humanoid,Male,28,28,1,2
+Nancy,Human,Female,28,36,0,4
+Birdperson,Alien,Male,28,51,0,5
+Snuffles (Snowball),Animal,Male,28,30,0,6
+Principal Vagina,Cronenberg,Male,28,29,0,8
+Jessica,Human,Female,28,42,1,10
+Mr. Goldenfold,Cronenberg,Male,28,39,0,12
+Jerry Smith,Human,Male,28,51,0,23
+Beth Smith,Human,Female,28,51,1,26
+Summer Smith,Human,Female,28,51,0,26
+Morty Smith,Human,Male,28,51,1,28
+Rick Sanchez,Human,Male,28,51,1,28
+Bearded Morty,Human,Male,29,51,0,1
+Chang,Human,Male,29,29,1,1
+Collector,Alien,Male,29,29,1,1
+Dr. Eleanor Arroway,Human,Female,29,29,1,1
+Dr. Wong,Human,Female,29,41,0,1
+Gene,Human,Male,29,49,0,1
+Michael,Human,Male,29,35,0,1
+President Curtis,Human,Male,29,47,0,1
+Shleemypants,unknown,Male,29,36,0,1
+Space Cruiser,Robot,Female,29,47,0,1
+Brad,Human,Male,29,46,0,2
+Evil Morty,Human,Male,29,51,0,2
+Tammy Guetermann,Cronenberg,Female,29,37,0,2
+Tricia Lange,Human,Female,29,46,0,2
+Mr. Poopybutthole,Poopybutthole,Male,29,51,1,3
+Birdperson,Alien,Male,29,51,0,5
+Nancy,Human,Female,29,36,1,5
+Snuffles (Snowball),Animal,Male,29,30,1,7
+Principal Vagina,Human,Male,29,29,1,9
+Jessica,Human,Female,29,42,1,11
+Mr. Goldenfold,Cronenberg,Male,29,39,0,12
+Jerry Smith,Human,Male,29,51,1,24
+Beth Smith,Human,Female,29,51,1,27
+Summer Smith,Human,Female,29,51,1,27
+Morty Smith,Human,Male,29,51,1,29
+Rick Sanchez,Human,Male,29,51,1,29
+Bearded Morty,Human,Male,30,51,0,1
+Dr. Wong,Human,Female,30,41,0,1
+Gene,Human,Male,30,49,0,1
+Joseph Eli Lipkip,Human,Male,30,30,1,1
+Keara,Alien,Female,30,30,1,1
+Michael,Human,Male,30,35,0,1
+Mrs. Lipkip,Human,Female,30,30,1,1
+President Curtis,Human,Male,30,47,0,1
+Shleemypants,unknown,Male,30,36,0,1
+Space Cruiser,Robot,Female,30,47,0,1
+Tommy's Clone,Human,Male,30,30,1,1
+Trandor,Alien,Male,30,30,1,1
+Varrix,Alien,unknown,30,30,1,1
+Evil Morty,Human,Male,30,51,0,2
+Tammy Guetermann,Cronenberg,Female,30,37,0,2
+Tricia Lange,Human,Female,30,46,0,2
+Brad,Human,Male,30,46,1,3
+Mr. Poopybutthole,Poopybutthole,Male,30,51,1,4
+Birdperson,Alien,Male,30,51,0,5
+Nancy,Human,Female,30,36,0,5
+Snuffles (Snowball),Animal,Male,30,30,1,8
+Jessica,Human,Female,30,42,1,12
+Mr. Goldenfold,Human,Male,30,39,1,13
+Jerry Smith,Human,Male,30,51,1,25
+Beth Smith,Human,Female,30,51,1,28
+Summer Smith,Human,Female,30,51,1,28
+Morty Smith,Human,Male,30,51,1,30
+Rick Sanchez,Human,Male,30,51,1,30
+Amy Poopybutthole,Poopybutthole,Female,31,31,1,1
+Baby Poopybutthole,Poopybutthole,Male,31,31,1,1
+Bearded Morty,Human,Male,31,51,0,1
+Dr. Wong,Human,Female,31,41,0,1
+Gene,Human,Male,31,49,0,1
+Invisi-trooper,Human,Male,31,31,1,1
+Michael,Human,Male,31,35,0,1
+Presidentress of The Mega Gargantuans,Humanoid,Female,31,31,1,1
+Secretary of the Interior,Human,Male,31,31,1,1
+Shleemypants,unknown,Male,31,36,0,1
+Space Cruiser,Robot,Female,31,47,0,1
+Steve,Human,Male,31,43,1,1
+Evil Morty,Human,Male,31,51,0,2
+President Curtis,Human,Male,31,47,1,2
+Tammy Guetermann,Cronenberg,Female,31,37,0,2
+Tricia Lange,Human,Female,31,46,0,2
+Brad,Human,Male,31,46,0,3
+Birdperson,Alien,Male,31,51,0,5
+Mr. Poopybutthole,Poopybutthole,Male,31,51,1,5
+Nancy,Human,Female,31,36,0,5
+Jessica,Cronenberg,Female,31,42,0,12
+Mr. Goldenfold,Cronenberg,Male,31,39,0,13
+Jerry Smith,Human,Male,31,51,1,26
+Beth Smith,Human,Female,31,51,1,29
+Summer Smith,Human,Female,31,51,1,29
+Morty Smith,Human,Male,31,51,1,31
+Rick Sanchez,Human,Male,31,51,1,31
+Anchorman,Human,Male,32,32,1,1
+Anchorwoman,Human,Female,32,32,1,1
+Bearded Morty,Human,Male,32,51,0,1
+Dr. Wong,Human,Female,32,41,0,1
+Fascist Mr. President,Human,Male,32,32,1,1
+Fascist Shrimp Morty,Animal,Male,32,32,1,1
+Fascist Shrimp Rick,Animal,Male,32,32,1,1
+Fascist Shrimp SS,Animal,Male,32,32,1,1
+Fascist Teddy Bear Rick,Animal,Male,32,32,1,1
+Gene,Human,Male,32,49,0,1
+Michael,Human,Male,32,35,0,1
+Morty’s Lawyer,Human,Male,32,32,1,1
+Public Opinion Judge,Human,Female,32,32,1,1
+Shleemypants,unknown,Male,32,36,0,1
+Space Cruiser,Robot,Female,32,47,0,1
+Steve,Human,Male,32,43,0,1
+Wasp Beth,Animal,Female,32,32,1,1
+Wasp Jerry,Animal,Male,32,32,1,1
+Wasp Morty,Animal,Male,32,32,1,1
+Wasp Rick,Animal,Male,32,32,1,1
+Wasp Summer,Animal,Female,32,32,1,1
+Evil Morty,Human,Male,32,51,0,2
+President Curtis,Human,Male,32,47,0,2
+Tammy Guetermann,Cronenberg,Female,32,37,0,2
+Tricia Lange,Human,Female,32,46,0,2
+Brad,Human,Male,32,46,0,3
+Birdperson,Alien,Male,32,51,0,5
+Mr. Poopybutthole,Poopybutthole,Male,32,51,0,5
+Nancy,Human,Female,32,36,0,5
+Jessica,Human,Female,32,42,1,13
+Mr. Goldenfold,Cronenberg,Male,32,39,0,13
+Jerry Smith,Human,Male,32,51,1,27
+Beth Smith,Human,Female,32,51,1,30
+Summer Smith,Human,Female,32,51,1,30
+Morty Smith,Human,Male,32,51,1,32
+Rick Sanchez,Human,Male,32,51,1,32
+Bearded Morty,Human,Male,33,51,0,1
+Danny Publitz,Human,Male,33,33,1,1
+Dr. Wong,Human,Female,33,41,0,1
+Gene,Human,Male,33,49,0,1
+Glootie,Alien,Male,33,33,1,1
+Jeff,Human,Male,33,33,1,1
+Josiah,Human,Male,33,33,1,1
+Maggie,Human,Female,33,33,1,1
+Michael,Human,Male,33,35,0,1
+Monogatron Leader,Alien,Male,33,33,1,1
+Monogatron Queen,Alien,Female,33,33,1,1
+Mothership Intern,Alien,Male,33,33,1,1
+Mountain Sweat Jerry,Human,Male,33,33,1,1
+Priest Witherspoon,Human,Male,33,33,1,1
+Richard,Human,Male,33,33,1,1
+Running Bird,Human,Male,33,33,1,1
+Secretary at Tony's,Alien,Female,33,33,1,1
+Shleemypants,unknown,Male,33,36,0,1
+Space Cruiser,Robot,Female,33,47,0,1
+Steve,Human,Male,33,43,0,1
+Tony's Dad,Alien,Male,33,33,1,1
+Vermigurber,Alien,Male,33,33,1,1
+Evil Morty,Human,Male,33,51,0,2
+President Curtis,Human,Male,33,47,0,2
+Tammy Guetermann,Cronenberg,Female,33,37,0,2
+Tricia Lange,Human,Female,33,46,0,2
+Brad,Human,Male,33,46,0,3
+Birdperson,Alien,Male,33,51,0,5
+Mr. Poopybutthole,Poopybutthole,Male,33,51,0,5
+Nancy,Human,Female,33,36,0,5
+Jessica,Cronenberg,Female,33,42,0,13
+Mr. Goldenfold,Cronenberg,Male,33,39,0,13
+Jerry Smith,Human,Male,33,51,1,28
+Beth Smith,Human,Female,33,51,1,31
+Summer Smith,Human,Female,33,51,1,31
+Morty Smith,Human,Male,33,51,1,33
+Rick Sanchez,Human,Male,33,51,1,33
+Angie Flint,Human,Female,34,34,1,1
+Bearded Morty,Human,Male,34,51,0,1
+Double Microwawe,Humanoid,Male,34,34,1,1
+Dr. Wong,Human,Female,34,41,0,1
+Elon Tusk,Human,Male,34,34,1,1
+Gene,Human,Male,34,49,0,1
+Glar,Alien,Male,34,34,1,1
+Heist-Con Receptionist,Alien,Female,34,34,1,1
+Hephaestus,Mythological Creature,Male,34,34,1,1
+Key Catcher,Alien,Female,34,34,1,1
+Michael,Human,Male,34,35,0,1
+Monitor Lord,Alien,Male,34,34,1,1
+Netflix Executive,Human,Male,34,34,1,1
+Shleemypants,unknown,Male,34,36,0,1
+Snake Arms,Alien,Male,34,34,1,1
+Space Cruiser,Robot,Female,34,47,0,1
+Steve,Human,Male,34,43,0,1
+The Shapeshiftress,Alien,Female,34,34,1,1
+Truckula,Mythological Creature,Male,34,34,1,1
+Ventriloquiver,Humanoid,Female,34,34,1,1
+Evil Morty,Human,Male,34,51,0,2
+President Curtis,Human,Male,34,47,0,2
+Tammy Guetermann,Cronenberg,Female,34,37,0,2
+Tricia Lange,Human,Female,34,46,0,2
+Brad,Human,Male,34,46,0,3
+Birdperson,Alien,Male,34,51,0,5
+Nancy,Human,Female,34,36,0,5
+Mr. Poopybutthole,Poopybutthole,Male,34,51,1,6
+Jessica,Cronenberg,Female,34,42,0,13
+Mr. Goldenfold,Cronenberg,Male,34,39,0,13
+Jerry Smith,Human,Male,34,51,0,28
+Beth Smith,Human,Female,34,51,1,32
+Summer Smith,Human,Female,34,51,1,32
+Morty Smith,Human,Male,34,51,1,34
+Rick Sanchez,Human,Male,34,51,1,34
+Balthromaw,Mythological Creature,Male,35,35,1,1
+Bearded Morty,Human,Male,35,51,0,1
+Debrah,Mythological Creature,Male,35,35,1,1
+Debrah’s Partner,Mythological Creature,Male,35,35,1,1
+Dr. Wong,Human,Female,35,41,0,1
+Gene,Human,Male,35,49,0,1
+Shadow Jacker,Mythological Creature,Male,35,35,1,1
+Shleemypants,unknown,Male,35,36,0,1
+Slut Dragon,Mythological Creature,Male,35,35,1,1
+Space Cruiser,Robot,Female,35,47,0,1
+Steve,Human,Male,35,43,0,1
+Talking Cat,Animal,Male,35,35,1,1
+Evil Morty,Human,Male,35,51,0,2
+Michael,Mythological Creature,Male,35,35,1,2
+President Curtis,Human,Male,35,47,0,2
+Tammy Guetermann,Cronenberg,Female,35,37,0,2
+Tricia Lange,Human,Female,35,46,0,2
+Brad,Human,Male,35,46,0,3
+Birdperson,Alien,Male,35,51,0,5
+Nancy,Human,Female,35,36,0,5
+Mr. Poopybutthole,Poopybutthole,Male,35,51,0,6
+Jessica,Cronenberg,Female,35,42,0,13
+Mr. Goldenfold,Cronenberg,Male,35,39,0,13
+Jerry Smith,Human,Male,35,51,1,29
+Beth Smith,Human,Female,35,51,1,33
+Summer Smith,Human,Female,35,51,1,33
+Morty Smith,Human,Male,35,51,1,35
+Rick Sanchez,Human,Male,35,51,1,35
+Anchosnake,Animal,Male,36,36,1,1
+Bar Customer,Human,Male,36,36,1,1
+Bartender,Human,Female,36,36,1,1
+Bearded Morty,Human,Male,36,51,0,1
+Dr. Wong,Human,Female,36,41,0,1
+Gene,Human,Male,36,49,0,1
+PC Basketball Player,Human,Male,36,36,1,1
+Pet Shop Employee,Human,Male,36,36,1,1
+Secret Service Snake,Animal,Male,36,36,1,1
+Slippy,Animal,Female,36,36,1,1
+Snake Reporter,Animal,Male,36,36,1,1
+Snake Soldier,Animal,Male,36,36,1,1
+Snake with Legs,Animal,Male,36,36,1,1
+Space Cruiser,Robot,Female,36,47,0,1
+Steve,Human,Male,36,43,0,1
+Anchosnake,Animal,Female,36,36,1,2
+Evil Morty,Human,Male,36,51,0,2
+President Curtis,Human,Male,36,47,0,2
+Shleemypants,unknown,Male,36,36,1,2
+Tammy Guetermann,Cronenberg,Female,36,37,0,2
+Brad,Human,Male,36,46,0,3
+Tricia Lange,Human,Female,36,46,1,3
+Birdperson,Alien,Male,36,51,0,5
+Mr. Poopybutthole,Poopybutthole,Male,36,51,0,6
+Nancy,Human,Female,36,36,1,6
+Jessica,Cronenberg,Female,36,42,0,13
+Mr. Goldenfold,Cronenberg,Male,36,39,0,13
+Jerry Smith,Human,Male,36,51,1,30
+Beth Smith,Human,Female,36,51,1,34
+Summer Smith,Human,Female,36,51,1,34
+Morty Smith,Human,Male,36,51,1,36
+Rick Sanchez,Human,Male,36,51,1,36
+Abradolf Lincler,Human,Male,37,37,1,1
+Bearded Morty,Human,Male,37,51,0,1
+Biblesaurus,Animal,Male,37,37,1,1
+Cats Fan,Alien,Female,37,37,1,1
+Christmas Storyteller,Alien,Male,37,37,1,1
+Cookies Guy,Human,Male,37,37,1,1
+Crossy,unknown,Genderless,37,37,1,1
+Darth Poopybutthole,Poopybutthole,Male,37,37,1,1
+Dr. Wong,Human,Female,37,41,0,1
+Gene,Human,Male,37,49,0,1
+Goomby,Alien,Male,37,37,1,1
+Hairspray Fan,Alien,Female,37,37,1,1
+Jesus Christ,Human,Male,37,37,1,1
+Leah,unknown,Female,37,37,1,1
+Marcus,Human,Male,37,37,1,1
+Mike Johnson,Human,Male,37,37,1,1
+Morty’s Disguise,Human,Female,37,37,1,1
+Mr. Celery & Friends,unknown,Genderless,37,37,1,1
+Musical Fan,Alien,Male,37,37,1,1
+Phantom of the Opera Fan,Alien,Male,37,37,1,1
+Phoenixperson,Alien,Male,37,37,1,1
+Ramamama Lord,Human,Male,37,37,1,1
+Rick’s Disguise,Human,Male,37,37,1,1
+Ruth Bader Ginsburg,Human,Female,37,37,1,1
+Sarge,Human,Male,37,48,1,1
+Shrek The Musical Fan,Alien,Male,37,37,1,1
+Snuffles,Animal,Male,37,37,1,1
+Space Cruiser,Robot,Female,37,47,0,1
+Steve,Human,Male,37,43,0,1
+Storylord,Human,Male,37,37,1,1
+The Concept of Time,unknown,Genderless,37,37,1,1
+Train Cops,Human,Female,37,37,1,1
+President Curtis,Human,Male,37,47,0,2
+Brad,Human,Male,37,46,0,3
+Evil Morty,Human,Male,37,51,1,3
+Tammy Guetermann,Human,Female,37,37,1,3
+Tricia Lange,Human,Female,37,46,0,3
+Birdperson,Alien,Male,37,51,1,6
+Mr. Poopybutthole,Poopybutthole,Male,37,51,0,6
+Jessica,Cronenberg,Female,37,42,0,13
+Mr. Goldenfold,Cronenberg,Male,37,39,0,13
+Jerry Smith,Human,Male,37,51,0,30
+Beth Smith,Human,Female,37,51,1,35
+Summer Smith,Human,Female,37,51,1,35
+Morty Smith,Human,Male,37,51,1,37
+Rick Sanchez,Human,Male,37,51,1,37
+Bearded Morty,Human,Male,38,51,0,1
+Dr. Wong,Human,Female,38,41,0,1
+Gene,Human,Male,38,49,0,1
+Sarge,Human,Male,38,48,0,1
+Space Cruiser,Robot,Female,38,47,0,1
+Steve,Human,Male,38,43,0,1
+President Curtis,Human,Male,38,47,0,2
+Brad,Human,Male,38,46,0,3
+Evil Morty,Human,Male,38,51,0,3
+Tricia Lange,Human,Female,38,46,1,4
+Birdperson,Alien,Male,38,51,0,6
+Mr. Poopybutthole,Poopybutthole,Male,38,51,0,6
+Jessica,Cronenberg,Female,38,42,0,13
+Mr. Goldenfold,Cronenberg,Male,38,39,0,13
+Jerry Smith,Human,Male,38,51,1,31
+Beth Smith,Human,Female,38,51,1,36
+Summer Smith,Human,Female,38,51,1,36
+Morty Smith,Human,Male,38,51,1,38
+Rick Sanchez,Human,Male,38,51,1,38
+Bearded Morty,Human,Male,39,51,0,1
+Dr. Wong,Human,Female,39,41,0,1
+Gene,Human,Male,39,49,0,1
+Heroine Keith,Human,Male,39,39,1,1
+Johnny Carson,Human,Male,39,39,1,1
+Morty’s Father-in-law,Human,Male,39,39,1,1
+Morty’s Girlfriend,Human,Female,39,39,1,1
+Morty’s Mother-in-law,Human,Female,39,39,1,1
+Sarge,Human,Male,39,48,0,1
+Sonia Sotomayor,Human,Female,39,39,1,1
+Space Cruiser,Robot,Female,39,47,0,1
+Steve,Human,Male,39,43,0,1
+President Curtis,Human,Male,39,47,0,2
+Brad,Human,Male,39,46,0,3
+Evil Morty,Human,Male,39,51,0,3
+Tricia Lange,Human,Female,39,46,0,4
+Birdperson,Alien,Male,39,51,0,6
+Mr. Poopybutthole,Poopybutthole,Male,39,51,0,6
+Jessica,Human,Female,39,42,1,14
+Mr. Goldenfold,Human,Male,39,39,1,14
+Jerry Smith,Human,Male,39,51,1,32
+Beth Smith,Human,Female,39,51,1,37
+Summer Smith,Human,Female,39,51,1,37
+Morty Smith,Human,Male,39,51,1,39
+Rick Sanchez,Human,Male,39,51,1,39
+Bearded Morty,Human,Male,40,51,0,1
+Dr. Wong,Human,Female,40,41,0,1
+Florflock,Humanoid,Genderless,40,40,1,1
+Gaia,unknown,Female,40,40,1,1
+Gene,Human,Male,40,49,0,1
+Sarge,Human,Male,40,48,0,1
+Space Cruiser,Robot,Female,40,47,0,1
+Squeeb,Humanoid,Genderless,40,40,1,1
+Steve,Human,Male,40,43,0,1
+President Curtis,Human,Male,40,47,0,2
+Brad,Human,Male,40,46,0,3
+Evil Morty,Human,Male,40,51,0,3
+Tricia Lange,Human,Female,40,46,0,4
+Birdperson,Alien,Male,40,51,0,6
+Mr. Poopybutthole,Poopybutthole,Male,40,51,0,6
+Jessica,Cronenberg,Female,40,42,0,14
+Jerry Smith,Human,Male,40,51,1,33
+Beth Smith,Human,Female,40,51,1,38
+Summer Smith,Human,Female,40,51,1,38
+Morty Smith,Human,Male,40,51,1,40
+Rick Sanchez,Human,Male,40,51,1,40
+Bearded Morty,Human,Male,41,51,0,1
+Defiance Beth,Human,Female,41,43,1,1
+Defiance Doctor,Alien,Male,41,41,1,1
+Defiance Squanchette,Alien,Female,41,41,1,1
+Gene,Human,Male,41,49,0,1
+Sarge,Human,Male,41,48,0,1
+Space Cruiser,Robot,Female,41,47,0,1
+Steve,Human,Male,41,43,0,1
+Dr. Wong,Human,Female,41,41,1,2
+President Curtis,Human,Male,41,47,0,2
+Brad,Human,Male,41,46,0,3
+Evil Morty,Human,Male,41,51,0,3
+Tricia Lange,Human,Female,41,46,0,4
+Birdperson,Alien,Male,41,51,0,6
+Mr. Poopybutthole,Poopybutthole,Male,41,51,0,6
+Jessica,Cronenberg,Female,41,42,0,14
+Jerry Smith,Human,Male,41,51,1,34
+Beth Smith,Human,Female,41,51,1,39
+Summer Smith,Human,Female,41,51,1,39
+Morty Smith,Human,Male,41,51,1,41
+Rick Sanchez,Human,Male,41,51,1,41
+Bearded Morty,Human,Male,42,51,0,1
+Defiance Beth,Human,Female,42,43,0,1
+Evolved Narnian,Humanoid,Male,42,42,1,1
+Evolved Narnian Disguised as Morty,Humanoid,Male,42,42,1,1
+Gene,Human,Male,42,49,0,1
+Mr. Nimbus,Mythological Creature,Male,42,42,1,1
+Mr. Nimbus Secretary,Animal,Female,42,42,1,1
+Sarge,Human,Male,42,48,0,1
+Space Cruiser,Robot,Female,42,47,0,1
+Steve,Human,Male,42,43,0,1
+President Curtis,Human,Male,42,47,0,2
+Brad,Human,Male,42,46,0,3
+Evil Morty,Human,Male,42,51,0,3
+Tricia Lange,Human,Female,42,46,0,4
+Birdperson,Alien,Male,42,51,0,6
+Mr. Poopybutthole,Poopybutthole,Male,42,51,0,6
+Jessica,Human,Female,42,42,1,15
+Jerry Smith,Human,Male,42,51,1,35
+Beth Smith,Human,Female,42,51,1,40
+Summer Smith,Human,Female,42,51,1,40
+Morty Smith,Human,Male,42,51,1,42
+Rick Sanchez,Human,Male,42,51,1,42
+Bearded Morty,Human,Male,43,51,0,1
+Dracula,Mythological Creature,Male,43,43,1,1
+Gene,Human,Male,43,49,0,1
+Glockenspiel Jerry,Robot,Male,43,43,1,1
+Mr. Always Wants to be Hunted,Poopybutthole,Male,43,43,1,1
+Sarge,Human,Male,43,48,0,1
+Space Cruiser,Robot,Female,43,47,0,1
+When Wolf,Mythological Creature,Male,43,43,1,1
+Defiance Beth,Human,Female,43,43,1,2
+Steve,Human,Male,43,43,1,2
+Brad,Human,Male,43,46,0,3
+Evil Morty,Human,Male,43,51,0,3
+President Curtis,Human,Male,43,47,1,3
+Tricia Lange,Human,Female,43,46,0,4
+Birdperson,Alien,Male,43,51,0,6
+Mr. Poopybutthole,Poopybutthole,Male,43,51,0,6
+Jerry Smith,Human,Male,43,51,1,36
+Beth Smith,Human,Female,43,51,1,41
+Summer Smith,Human,Female,43,51,1,41
+Morty Smith,Human,Male,43,51,1,43
+Rick Sanchez,Human,Male,43,51,1,43
+Bearded Morty,Human,Male,44,51,0,1
+Daphne,Alien,Female,44,44,1,1
+Diesel Weasel,Animal,Male,44,44,1,1
+Ferkusian,Alien,Male,44,44,1,1
+Gene,Human,Male,44,49,0,1
+Planetina,Humanoid,Female,44,44,1,1
+Sarge,Human,Male,44,48,0,1
+Space Cruiser,Robot,Female,44,47,0,1
+Tony Galopagus,Human,Male,44,44,1,1
+Brad,Human,Male,44,46,0,3
+Evil Morty,Human,Male,44,51,0,3
+President Curtis,Human,Male,44,47,0,3
+Tricia Lange,Human,Female,44,46,0,4
+Birdperson,Alien,Male,44,51,0,6
+Mr. Poopybutthole,Poopybutthole,Male,44,51,0,6
+Jerry Smith,Human,Male,44,51,1,37
+Beth Smith,Human,Female,44,51,1,42
+Summer Smith,Human,Female,44,51,1,42
+Morty Smith,Human,Male,44,51,1,44
+Rick Sanchez,Human,Male,44,51,1,44
+Amazing Johnathan,Human,Male,45,45,1,1
+Bearded Morty,Human,Male,45,51,0,1
+CHUD King,Animal,Male,45,45,1,1
+Cirque du Soleil Zumanity Member,Human,Female,45,45,1,1
+Foal Sanchez,Humanoid,unknown,45,45,1,1
+Gene,Human,Male,45,49,0,1
+Kathy Ireland,Human,Female,45,45,1,1
+Naruto Smith,Humanoid,Male,45,48,1,1
+President's General,Human,Male,45,47,1,1
+Princess Ponietta,Animal,Female,45,45,1,1
+Sarge,Human,Male,45,48,0,1
+Space Cruiser,Robot,Female,45,47,0,1
+Sticky,unknown,Male,45,45,1,1
+Cirque du Soleil Zumanity Member,Human,Male,45,45,1,2
+Brad,Human,Male,45,46,0,3
+Evil Morty,Human,Male,45,51,0,3
+President Curtis,Human,Male,45,47,1,4
+Tricia Lange,Human,Female,45,46,0,4
+Birdperson,Alien,Male,45,51,0,6
+Mr. Poopybutthole,Poopybutthole,Male,45,51,0,6
+Jerry Smith,Human,Male,45,51,1,38
+Beth Smith,Human,Female,45,51,1,43
+Summer Smith,Human,Female,45,51,1,43
+Morty Smith,Human,Male,45,51,1,45
+Rick Sanchez,Human,Male,45,51,1,45
+Bearded Morty,Human,Male,46,51,0,1
+Bruce Chutback,Human,Male,46,46,1,1
+Gene,Human,Male,46,49,0,1
+Naruto Smith,Humanoid,Male,46,48,0,1
+President's General,Human,Male,46,47,0,1
+Sarge,Human,Male,46,48,0,1
+Space Cruiser,Robot,Female,46,47,0,1
+Evil Morty,Human,Male,46,51,0,3
+Brad,Human,Male,46,46,1,4
+President Curtis,Human,Male,46,47,0,4
+Tricia Lange,Human,Female,46,46,1,5
+Birdperson,Alien,Male,46,51,0,6
+Mr. Poopybutthole,Poopybutthole,Male,46,51,0,6
+Jerry Smith,Human,Male,46,51,1,39
+Beth Smith,Human,Female,46,51,1,44
+Summer Smith,Human,Female,46,51,1,44
+Morty Smith,Human,Male,46,51,1,46
+Rick Sanchez,Human,Male,46,51,1,46
+Bearded Morty,Human,Male,47,51,0,1
+Coop,Human,Male,47,47,1,1
+Dwayne,Human,Male,47,47,1,1
+Gene,Human,Male,47,49,0,1
+Giant Assassin Hidden in the Statue of Liberty,Robot,Female,47,47,1,1
+Jackey,Human,Male,47,47,1,1
+Marvin,Human,Male,47,47,1,1
+Mary-Lou,Human,Female,47,47,1,1
+Naruto Smith,Humanoid,Male,47,48,0,1
+Native Alien,Alien,Male,47,47,1,1
+Pilgrim Alien,Alien,Male,47,47,1,1
+Sarge,Human,Male,47,48,0,1
+Turkey Morty,Animal,Male,47,47,1,1
+Turkey President Curtis,Animal,Male,47,47,1,1
+Turkey Rick,Animal,Male,47,47,1,1
+President's General,Human,Male,47,47,1,2
+Space Cruiser,Robot,Female,47,47,1,2
+Evil Morty,Human,Male,47,51,0,3
+President Curtis,Human,Male,47,47,1,5
+Birdperson,Alien,Male,47,51,0,6
+Mr. Poopybutthole,Poopybutthole,Male,47,51,0,6
+Jerry Smith,Human,Male,47,51,1,40
+Beth Smith,Human,Female,47,51,1,45
+Summer Smith,Human,Female,47,51,1,45
+Morty Smith,Human,Male,47,51,1,47
+Rick Sanchez,Human,Male,47,51,1,47
+Bearded Morty,Human,Male,48,51,0,1
+Gene,Human,Male,48,49,0,1
+Palicki,Alien,Male,48,48,1,1
+Naruto Smith,Humanoid,Male,48,48,1,2
+Sarge,Alien,Male,48,48,1,2
+Evil Morty,Human,Male,48,51,0,3
+Birdperson,Alien,Male,48,51,0,6
+Mr. Poopybutthole,Poopybutthole,Male,48,51,0,6
+Jerry Smith,Human,Male,48,51,1,41
+Beth Smith,Human,Female,48,51,1,46
+Summer Smith,Human,Female,48,51,1,46
+Morty Smith,Human,Male,48,51,1,48
+Rick Sanchez,Human,Male,48,51,1,48
+Bearded Morty,Human,Male,49,51,0,1
+Birdperson & Tammy's Child,Humanoid,Female,49,49,1,1
+Rick's Garage,Robot,Female,49,49,1,1
+Young Memory Rick,Human,Male,49,49,1,1
+Gene,Human,Male,49,49,1,2
+Evil Morty,Human,Male,49,51,0,3
+Mr. Poopybutthole,Poopybutthole,Male,49,51,0,6
+Birdperson,Alien,Male,49,51,1,7
+Jerry Smith,Human,Male,49,51,1,42
+Beth Smith,Human,Female,49,51,1,47
+Summer Smith,Human,Female,49,51,1,47
+Morty Smith,Human,Male,49,51,1,49
+Rick Sanchez,Human,Male,49,51,1,49
+Bearded Morty,Human,Male,50,51,0,1
+Harold (Garbage Goober),Alien,Male,50,50,1,1
+Harold's Wife,Alien,Female,50,50,1,1
+Mr. Cookie President,Alien,Male,50,50,1,1
+Two Crows,Animal,unknown,50,51,1,1
+Evil Morty,Human,Male,50,51,0,3
+Mr. Poopybutthole,Poopybutthole,Male,50,51,0,6
+Birdperson,Alien,Male,50,51,0,7
+Jerry Smith,Human,Male,50,51,1,43
+Beth Smith,Human,Female,50,51,0,47
+Summer Smith,Human,Female,50,51,0,47
+Morty Smith,Human,Male,50,51,1,50
+Rick Sanchez,Human,Male,50,51,1,50
+Baby Mouse Skin Morty,Human,Male,51,51,1,1
+Crow Horse,Robot,unknown,51,51,1,1
+Crow Scare,Humanoid,Male,51,51,1,1
+Bearded Morty,Human,Male,51,51,1,2
+Two Crows,Animal,unknown,51,51,1,2
+Evil Morty,Human,Male,51,51,1,4
+Mr. Poopybutthole,Poopybutthole,Male,51,51,1,7
+Birdperson,Alien,Male,51,51,1,8
+Jerry Smith,Human,Male,51,51,1,44
+Beth Smith,Human,Female,51,51,1,48
+Summer Smith,Human,Female,51,51,1,48
+Morty Smith,Human,Male,51,51,1,51
+Rick Sanchez,Human,Male,51,51,1,51
